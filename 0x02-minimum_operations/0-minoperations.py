@@ -4,6 +4,7 @@ Solving minimum operations using prime factorization
 """
 
 def minOperations(n):
+    """factors of n number"""
     if n == 1:
         return 0
 
