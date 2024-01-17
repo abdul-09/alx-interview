@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-
+"""
+Solving minimum operations using prime factorization
+"""
 
 def minOperations(n):
     if n == 1:
