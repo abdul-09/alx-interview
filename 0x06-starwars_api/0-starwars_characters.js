@@ -29,4 +29,3 @@ request(movieEndpoint, (error, response, body) => {
     sendRequest(characterList, 0);
   }
 });
-
